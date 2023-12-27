@@ -1,0 +1,73 @@
+.nav nav-tabs{
+    display: flex;
+    
+    }
+    
+    
+    .mmm{
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        object-fit: cover;
+        border-radius: 50%;
+                    }
+    
+    
+    .john{
+    
+        margin-left: 50px;
+        
+    }
+    
+    .time{
+        text-align: right;
+    }
+    
+    #mr{
+        margin-right: 150px;
+        color: white;
+    }
+    
+    
+    #mt{margin-top: 50px;}
+    
+    #che{margin-left:1030px;}
+    
+    #bot{border-radius: 5px;}
+    
+    #wa{color: white;}
+    
+    #til{margin-left: 40px;
+    color: white;}
+    
+    #tol{margin-left: 10px;}
+    
+    #bnm{margin-top: 15px;
+    color: white;}
+    
+    #big{margin-left: 10px;
+    color: white;}
+    
+    #time{color: white;}
+    
+    #nine{margin-right: 60px;}
+    
+    #fin{margin-left:50px;
+    color: white;
+    }
+    
+    #h3{color: white;}
+    
+    #white{color: white;}
+    
+    .win{margin-right: 200px;}
+    
+    #green{color: green;}
+    
+    #ash{color: rgb(148, 146, 144);}
+    
+    .img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    }
